@@ -7,7 +7,7 @@
 
     margin: 0;
     padding: 0;
-    
+
     outline: 0;
 
     text-align: center;
@@ -33,7 +33,6 @@
     }
 
     a.button:link,
-    a.button:hover,
     a.button:visited
     {
         cursor: default;

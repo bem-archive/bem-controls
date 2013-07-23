@@ -1,0 +1,9 @@
+a.button:hover
+{
+    cursor: default;
+
+    /* hidden for Opera 12 to remove native focusing  *//**/
+    outline: hidden;
+
+    text-decoration: none;
+}
