@@ -1,10 +1,1 @@
-Библиотека контролов форм
-===========
-
-Ветка для разработки. Разработка видется по git-flow
-
-
-
-
-
-
+Repository moved to https://github.com/bem/bem-components/
